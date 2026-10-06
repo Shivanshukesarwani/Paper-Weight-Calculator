@@ -1,0 +1,6 @@
+{
+  "name": "Paper Weight & Price Calculator",
+  "description": "Comprehensive paper weight, GSM, basis weight converter, and commercial paper price and job cost calculator with standard paper sizes and bulk discounts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
